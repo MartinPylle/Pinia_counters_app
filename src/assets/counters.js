@@ -3,4 +3,5 @@ export default [
   {id: 2, count: 0, color: "red"},
   {id: 3, count: 0, color: "orange"},
   {id: 4, count: 0, color: "purple"},
+  {id: 5, count: 0, color: "lime"},
 ];
